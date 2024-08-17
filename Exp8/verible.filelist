@@ -1,0 +1,8 @@
+./src/complex_adder.sv
+./src/complex_mult.sv
+./src/dmem.sv
+./src/imem.sv
+./src/mult.sv
+./src/mult_test.sv
+./src/pipeline.sv
+./src/test.sv

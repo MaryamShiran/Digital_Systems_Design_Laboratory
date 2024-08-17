@@ -1,0 +1,5 @@
+./src/casc_comp.sv
+./src/full_comp.sv
+./src/serial_comp.sv
+./src/serial_test.sv
+./src/test.sv

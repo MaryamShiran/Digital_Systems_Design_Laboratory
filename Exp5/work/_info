@@ -1,0 +1,125 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Mazdak\Desktop\Sharif\Tamarin\Digital System Design\Project
+vBooth
+Z1 I?0`FKHoM@YHfi[VFeghN73
+Z2 V1khO1725`NlzQSLK`k0S]1
+Z3 dC:\Users\Mazdak\Desktop\Sharif\Tamarin\Digital System Design Lab\Experiment 5
+Z4 w1720891021
+Z5 8C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/Booth.v
+Z6 FC:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/Booth.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/Booth.v|
+Z9 o-work work -O0
+Z10 n@booth
+Z11 !s100 >;jgb?A51;UldO8=^laUU0
+Z12 !s108 1720891026.652000
+Z13 !s107 C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/Booth.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCU
+Z14 !s100 iWA2glBCUZB1[M8aBQ4jD1
+Z15 IdNfnBL65U7:>FaJ187MD]2
+Z16 V`6o?kQQ;o[1^eV4WfWY>G3
+R3
+Z17 w1720890755
+Z18 8C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/CU.v
+Z19 FC:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/CU.v
+L0 1
+R7
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/CU.v|
+R9
+n@c@u
+Z21 !s108 1720891026.759000
+Z22 !s107 C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/CU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDatapath
+Z23 !s100 l6cABJ4[VXQQTieIke`UU1
+Z24 If_[ULB^AJg]1kUzEKa3Q31
+Z25 VQk^gH`>Dh_S<LkH_k]T;b1
+R3
+Z26 w1720881152
+Z27 8C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/Datapath.v
+Z28 FC:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/Datapath.v
+L0 1
+R7
+r1
+31
+Z29 !s90 -reportprogress|300|-work|work|C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/Datapath.v|
+R9
+Z30 n@datapath
+Z31 !s108 1720891027.062000
+Z32 !s107 C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/Datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFirst_indices
+Z33 !s100 _1[SM?IaNbFlmLCb?2J971
+Z34 Ia5g=8W;A3TWnoA>9WPGz>2
+Z35 VeY@?DWAkR6TNDRB8lEU902
+R3
+Z36 w1720890742
+Z37 8C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/First_indices.v
+Z38 FC:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/First_indices.v
+L0 1
+R7
+r1
+31
+Z39 !s90 -reportprogress|300|-work|work|C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/First_indices.v|
+R9
+Z40 n@first_indices
+Z41 !s108 1720891026.860000
+Z42 !s107 C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/First_indices.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTB_Booth
+!i10b 1
+!s100 1MB6e<1iJ>iNA3m`ak;W10
+IG=C?17T<jHWDi7f@NTM[j2
+Z43 V79jA4J4P4XlVGLo1VQJ5J0
+R3
+w1720891544
+Z44 8C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/TB_Booth.v
+Z45 FC:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/TB_Booth.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1720891551.067000
+!s107 C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/TB_Booth.v|
+Z46 !s90 -reportprogress|300|-work|work|C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/TB_Booth.v|
+!s101 -O0
+R9
+Z47 n@t@b_@booth
+vTB_FI
+Z48 !s100 Zaz8`[>k9DS@1aUBo<BCJ0
+Z49 Ilk00Y`UWIlf<eKa@AhH3^0
+Z50 V[jbnBE`lThYnL9EQ^m03j3
+R3
+Z51 w1720856178
+Z52 8C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/TB_FI.v
+Z53 FC:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/TB_FI.v
+L0 1
+R7
+r1
+31
+Z54 !s90 -reportprogress|300|-work|work|C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/TB_FI.v|
+R9
+Z55 n@t@b_@f@i
+Z56 !s108 1720891026.960000
+Z57 !s107 C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design Lab/Experiment 5/TB_FI.v|
+!i10b 1
+!s85 0
+!s101 -O0

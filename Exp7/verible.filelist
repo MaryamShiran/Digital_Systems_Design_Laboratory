@@ -1,0 +1,3 @@
+./src/test.sv
+./src/uart_rcv.sv
+./src/uart_trans.sv

@@ -1,0 +1,246 @@
+$date
+Sun Jul 14 02:23:43 2024
+$end
+$version
+Riviera-PRO Version 2023.04.112.8911
+$end
+$timescale
+1 ns
+$end
+
+$scope module testbench $end
+$var wire 4 ! data_out [3:0] $end
+$var wire 1 " full $end
+$var wire 1 # empty $end
+$var reg 1 $ clk $end
+$var reg 1 % rstN $end
+$var reg 4 & data_in [3:0] $end
+$var reg 1 ' push $end
+$var reg 1 ( pop $end
+$var parameter 32 ) CLK_PERIOD [31:0] $end
+
+$scope module sb $end
+$var wire 1 * clk $end
+$var wire 1 + rstN $end
+$var wire 4 , data_in [3:0] $end
+$var wire 1 - push $end
+$var wire 1 . pop $end
+$var reg 4 / data_out [3:0] $end
+$var reg 1 0 full $end
+$var reg 1 1 empty $end
+$var reg 4 2 stack_pointer [3:0] $end
+$var integer 32 3 i $end
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+$dumpvars
+bx !
+x"
+x#
+0$
+0%
+b0 &
+0'
+0(
+b1010 )
+0*
+0+
+b0 ,
+0-
+0.
+bx /
+x0
+x1
+bx 2
+bx 3
+$end
+#5
+1$
+1*
+b1000 3
+b0 2
+00
+11
+1#
+0"
+#10
+0$
+0*
+#15
+1$
+1*
+#20
+1%
+1(
+0$
+0*
+1.
+1+
+#25
+1$
+1*
+#30
+0$
+0*
+#35
+1$
+1*
+#40
+0$
+0*
+#45
+1$
+1*
+#50
+0(
+1'
+b1101 &
+0$
+0*
+b1101 ,
+1-
+0.
+#55
+1$
+1*
+b1 2
+01
+0#
+#60
+b1111 &
+0$
+0*
+b1111 ,
+#65
+1$
+1*
+b10 2
+#70
+b10 &
+0$
+0*
+b10 ,
+#75
+1$
+1*
+b11 2
+#80
+b1001 &
+0$
+0*
+b1001 ,
+#85
+1$
+1*
+b100 2
+#90
+0'
+1(
+0$
+0*
+1.
+0-
+#95
+1$
+1*
+b11 2
+b0 /
+b0 !
+#100
+1'
+0(
+b11 &
+0$
+0*
+b11 ,
+0.
+1-
+#105
+1$
+1*
+b100 2
+#110
+b1001 &
+0$
+0*
+b1001 ,
+#115
+1$
+1*
+b101 2
+#120
+0'
+1(
+0$
+0*
+1.
+0-
+#125
+1$
+1*
+b100 2
+#130
+0$
+0*
+#135
+1$
+1*
+b11 2
+b1001 /
+b1001 !
+#140
+0$
+0*
+#145
+1$
+1*
+b10 2
+b11 /
+b11 !
+#150
+0$
+0*
+#155
+1$
+1*
+b1 2
+b10 /
+b10 !
+#160
+0$
+0*
+#165
+1$
+1*
+b0 2
+b1111 /
+b1111 !
+#170
+0$
+0*
+#175
+1$
+1*
+b1111 2
+b1101 /
+11
+1#
+b1101 !
+#180
+0$
+0*
+#185
+1$
+1*
+#190
+0$
+0*
+#195
+1$
+1*
+#200
+0$
+0*
+#205
